@@ -13,19 +13,19 @@ This repository serves as a project portfolio, documenting the website's structu
 ## Website Preview
 
 ### Homepage
-![EstCloud Homepage](screenshots/estcloud-homepage.png)
+![EstCloud Homepage](screenshots/)
 
 ### About Us
-![EstCloud About Us](screenshots/estcloud-aboutus.png)
+![EstCloud About Us](screenshots/)
 
 ### Services
-![EstCloud Services](screenshots/estcloud-services.png)
+![EstCloud Services](screenshots/)
 
 ### Contact Page
-![EstCloud Contact](screenshots/contact.png)
+![EstCloud Contact](screenshots/)
 
 ### Mobile View
-![EstCloud Mobile View](screenshots/estcloud-mobile-view.png)
+![EstCloud Mobile View](screenshots/)
 
 ## Technologies Used
 
