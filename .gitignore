@@ -1,0 +1,22 @@
+# WordPress sensitive configuration
+wp-config.php
+.env
+.env.*
+*.pem
+*.key
+
+# Database and backups
+*.sql
+*.sql.gz
+*.zip
+*.tar
+*.gz
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
