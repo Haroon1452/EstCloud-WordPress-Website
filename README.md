@@ -13,7 +13,7 @@ This repository serves as a project portfolio, documenting the website's structu
 ## Website Preview
 
 ### Homepage
-![EstCloud Homepage](screenshots/)
+![EstCloud Homepage](screenshots/Estcloud-homepage.png)
 
 ### About Us
 ![EstCloud About Us](screenshots/)
